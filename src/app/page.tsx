@@ -10,7 +10,7 @@ export default function Home() {
       </header>
 
       <main className="flex flex-col gap-8 row-start-2 items-center sm:items-start">
-        <h1 className="text-white text-3xl font-bold">Welcome to XamHub</h1>
+        <h1 className="text-white text-3xl font-bold text-center">Welcome to XamHub</h1>
       </main>
 
       <footer>
